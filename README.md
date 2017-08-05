@@ -4,8 +4,8 @@ A repository with which to practice using git.
 
 ### What is your name?
 
-Joel
+Kevin 
 
 ### What is your favorite color?
 
-Purple
+Blue
